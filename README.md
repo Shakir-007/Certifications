@@ -57,7 +57,7 @@ This repository is a consolidated view of my continuous learning journey and ind
 
 Feel free to connect or reach out:
 
-- 💼 [LinkedIn](www.linkedin.com/in/mohd-shakir007)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohd-shakir007)
 - ✉️ ahmad.shakir.hussain@gmail.com
 
 ---
