@@ -40,8 +40,8 @@ Welcome to my certification portfolio! This repository showcases my technical ce
 | `AWS Certified Solutions Architect Professional.pdf` | AWS Solutions Architect Professional certificate |
 | `AWS Certified SysOps Administrator Associate.pdf` | SysOps Administrator certification proof |
 | `AZ-104.pdf` | Microsoft AZ-104 official certificate |
-| `Certificate of AZ-104.pdf` | Duplicate or alternate AZ-104 certificate format |
-| `Certification of completion AZ 104T00 from Koenig.pdf` | Official Azure training certificate |
+| `Certificate of AZ-104.pdf` | Official Azure training certificate |
+| `Certification of completion AZ 104 T00` | Official Azure training certificate from Koenig |
 | `Complete Full-Stack Web Development Bootcamp.pdf` | Full-stack bootcamp completion |
 | `Web dev certification.pdf` | Web development certification |
 
